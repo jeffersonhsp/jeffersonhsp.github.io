@@ -19,7 +19,7 @@ var _0x176e7d = _0xda6a;
         }
     }
 }(_0x5092, 0x28b98));
-_0x575973: console[_0x176e7d(0x234)]('Latest\x20update:\x2030\x20April\x202020\x20-\x20Sophie\x20\x27Shinko\x20to\x20Kuma\x27');
+_0x575973: console[_0x176e7d(0x234)]('Latest\x20update:\x2030\x20April\x202021\x20-\x20Jefinho15\x20\x27KILL\x27');
 $[_0x176e7d(0x1f7)](_0x176e7d(0x20c));
 var testPage, is_mobile = !!navigator['userAgent'][_0x176e7d(0x2d3)](/iphone|android|blackberry/ig) || ![],
     warehouseCapacity = [],
